@@ -3,7 +3,18 @@ body{
 }
 h1{
     font-size: 30px;
+    margin: 40px;
+}
+h3{
+    margin: 40px;
+}
+p{
+    margin: 40px;
 }
 .name-highlight{
     color: rgb(67, 235, 179);
+}
+.half-width{
+    width: 40%;
+    float: left;
 }
