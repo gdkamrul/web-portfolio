@@ -43,5 +43,15 @@ div {
     display:flex;
     flex-wrap: wrap;
     align-content: center;
-    padding-left: 50px;
+    padding-left: 60px;
+    animation-duration: 2s;
+    
+  }
+  .link-button{
+      background-image: linear-gradient(rgb(246, 177, 150), Tomato);
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 10px;
+      color: white;
+      
   }
