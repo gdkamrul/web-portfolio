@@ -3,25 +3,14 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 h1{
-    font-size: 30px;
-    margin: 30px ;
-     margin-left: 70px;
-  
+    font-size: 50px;
 }
-h3{
-    margin: 30px;
-    margin-left: 70px;
+    
+h2{
+    font-size: 40px;
 }
-p{
-    margin: 30px;
-    margin-left: 70px;
-}
-img{
-    margin-left: 100px;
-    width: 40%;
-}
-.name-highlight{
-    color: rgb(67, 235, 179);
+.orange-highlight{
+    color: rgb(76, 26, 241);
 }
 .half-width{
     width: 30%;
@@ -30,9 +19,8 @@ img{
 }
 .half-width img{
     width: 600px;
-    height: 450px;
-    position: relative;
-    right: 20px;
+    height: 100%;
+    
     
 }
 .top-banner{
@@ -52,9 +40,22 @@ section{
       padding: 10px 20px;
       border-radius: 10px;
       color: white;
-      margin-left: 70px;
-         
-  }
- footer{
-     text-align: center;
- }
+     
+}
+.dream-area{
+    background-image: url(images/get-logo.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 5%;
+    
+}
+.section-b{
+    width: 30%;
+    float:left;
+    padding-left:10%;    
+    
+}
+.section-b img{
+    width: 450px;
+
+}
